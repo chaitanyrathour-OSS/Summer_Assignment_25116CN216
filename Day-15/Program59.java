@@ -19,4 +19,3 @@ public class Program59 {
     }
     
 }
-
